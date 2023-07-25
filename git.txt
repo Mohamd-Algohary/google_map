@@ -5,3 +5,4 @@
 5- git log
 6- git checkout (commit ID)                   // To switch between versions
 7- git checkout -b (name of the branch)      // To create new branch
+8- git branch
