@@ -1,0 +1,7 @@
+1- git init
+2- git status
+3- git add .
+4- git commit -m 'any name'
+5- git log
+6- git checkout (commit ID)                   // To switch between versions
+7- git checkout -b (name of the branch)      // To create new branch
